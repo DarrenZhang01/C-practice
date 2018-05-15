@@ -1,0 +1,1 @@
+Please input the value of x: cos(1.000000)=0.540302

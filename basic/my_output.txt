@@ -1,0 +1,2 @@
+Please input value of a and b:
+result=4
