@@ -1,0 +1,5 @@
+I will create a fantastic file to test the C code here
+Now the test begins!
+Well, what is function "fputs" actually used for?
+You should actually know this is the fourth line of the text file.
+Now, wait, the test will begin in a second~
