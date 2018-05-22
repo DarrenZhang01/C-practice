@@ -1,0 +1,3 @@
+I just want to take a test to make sure that I can use fgets correctly
+This is the second line of the file.
+Now, this should be the end of the file.
