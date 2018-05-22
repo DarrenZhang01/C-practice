@@ -1,0 +1,4 @@
+Now, I want to make a test.
+This is the second line of the file.
+This is the third line.
+I want to make sure that fgets function reads in one line at a time.
