@@ -1,0 +1,3 @@
+This is the first line.
+Now I record the date of today: 20170926
+Ok, cool!
